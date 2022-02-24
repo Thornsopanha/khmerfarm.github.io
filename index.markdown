@@ -39,5 +39,5 @@ body {
 
 <div id="example1">
 <h3 style="color:white;">Team Cambodia</h3>
-  <p style="color:black;">ពួកយើងមកទីនេះដើម្បីជួយអ្នកទាំងអស់គ្នាអំពីការរៀនជាមួយនិង ការអនុវត្តន៏ ហើយនេះជាដំណើរការសាកល្បងរបស់ពួកយើង</p>
+  <p style="color:black;"> HELLO EVERYONE MY NAME IS SOPNANHA AND WELCOME TO MY WEBSITE</p>
 </div>
