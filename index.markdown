@@ -5,7 +5,7 @@
 layout: home
 permalink: /
 list_title: Featured Posts
-web_title: E2STEM | EDU LAB
+web_title: E2STEM | SOPANHA THORN
 ---
 
 
