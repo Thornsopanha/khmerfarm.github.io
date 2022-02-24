@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-Biology
-title: "Biology"
-category: Biology
+title: "SOPANHA"
+category: SOPANHA
 order: 1
 ---
